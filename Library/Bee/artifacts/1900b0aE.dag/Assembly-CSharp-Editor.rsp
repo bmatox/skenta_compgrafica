@@ -439,6 +439,11 @@
 -analyzer:"C:/Program Files/Unity/Hub/Editor/6000.0.41f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.Properties.SourceGenerator.dll"
 -analyzer:"C:/Program Files/Unity/Hub/Editor/6000.0.41f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.SourceGenerators.dll"
 -analyzer:"C:/Program Files/Unity/Hub/Editor/6000.0.41f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.UIToolkit.SourceGenerator.dll"
+"Assets/Forst/Conifers [BOTD]/Installer/Editor/ConifersInstaller.cs"
+"Assets/Forst/Conifers [BOTD]/Installer/Editor/LaunchConifersInstaller.cs"
+"Assets/Forst/CTI Runtime Components/CTI Runtime Components URP 14plus/Scripts/Editor/CTI_URPTransDrawer.cs"
+"Assets/Forst/CTI Runtime Components/CTI Runtime Components URP 14plus/Scripts/Editor/CTI_URPWindDrawer.cs"
+"Assets/Forst/CTI Runtime Components/CTI Runtime Components URP 14plus/Scripts/Editor/CTI_URP_ShaderGUI.cs"
 "Assets/TutorialInfo/Scripts/Editor/ReadmeEditor.cs"
 -langversion:9.0
 /deterministic
