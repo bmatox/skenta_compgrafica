@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 1718
     height: 1333
   m_ShowMode: 4
-  m_Title: Scene
+  m_Title: Inspector
   m_RootView: {fileID: 6}
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
@@ -121,8 +121,8 @@ MonoBehaviour:
     y: 879
     width: 1276
     height: 398
-  m_MinSize: {x: 100, y: 100}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 101, y: 126}
+  m_MaxSize: {x: 4001, y: 4026}
   m_ActualView: {fileID: 17}
   m_Panes:
   - {fileID: 12}
@@ -520,8 +520,8 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 42ae0000
-      m_LastClickedID: 44610
+      m_SelectedIDs: 
+      m_LastClickedID: 0
       m_ExpandedIDs: 0cfbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
@@ -891,7 +891,7 @@ MonoBehaviour:
       sizeOverridden: 0
     - dockPosition: 0
       containerId: overlay-toolbar__left
-      displayed: 1
+      displayed: 0
       id: Terrain Tools
       index: 0
       contents: '{"m_Layout":4,"m_Collapsed":false,"m_Floating":false,"m_FloatingSnapOffset":{"x":24.0,"y":0.0},"m_SnapOffsetDelta":{"x":0.0,"y":0.0},"m_FloatingSnapCorner":0,"m_Size":{"x":0.0,"y":0.0},"m_SizeOverridden":false}'
@@ -1140,9 +1140,9 @@ MonoBehaviour:
   m_AudioPlay: 0
   m_DebugDrawModesUseInteractiveLightBakingData: 0
   m_Position:
-    m_Target: {x: 745.10913, y: 193.26408, z: 618.7372}
+    m_Target: {x: 860.9695, y: 132.9836, z: 829.902}
     speed: 2
-    m_Value: {x: 745.10913, y: 193.26408, z: 618.7372}
+    m_Value: {x: 860.9695, y: 132.9836, z: 829.902}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -1188,20 +1188,20 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: -0.02156865, y: 0.9352707, z: -0.057882875, w: -0.34851712}
+    m_Target: {x: -0.10073209, y: 0.8425645, z: -0.16931507, w: -0.50128365}
     speed: 2
-    m_Value: {x: -0.021045746, y: 0.9353514, z: -0.056479592, w: -0.34854716}
+    m_Value: {x: -0.099227086, y: 0.8430624, z: -0.16678536, w: -0.5015799}
   m_Size:
-    m_Target: 370.47736
+    m_Target: 525430.7
     speed: 2
-    m_Value: 354.52377
+    m_Value: 502804.5
   m_Ortho:
-    m_Target: 0
+    m_Target: 1
     speed: 2
-    m_Value: 0
+    m_Value: 1
   m_CameraSettings:
-    m_Speed: 0.70065
-    m_SpeedNormalized: 0.35
+    m_Speed: 2
+    m_SpeedNormalized: 1
     m_SpeedMin: 0.001
     m_SpeedMax: 2
     m_EasingEnabled: 1
