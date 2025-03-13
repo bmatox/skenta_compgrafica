@@ -1,0 +1,43 @@
+# Unity Generated Files
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Ll]ogs/
+[Mm]emoryCaptures/
+*.csproj
+*.unityproj
+*.sln
+*.userprefs
+
+# Asset meta files
+*.pidb.meta
+
+# Auto-generated VS/Unity stuff
+*.pidb
+*.svd
+*.user
+*.unityproj
+*.booproj
+
+# Crash reports
+sysinfo.txt
+
+# Build results
+*.apk
+*.aab
+*.unitypackage
+
+# VS Code files
+.vscode/
+
+# Rider IDE files
+.idea/
+*.iml
+*.iws
+
+# JetBrains Rider files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
